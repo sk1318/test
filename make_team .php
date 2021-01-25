@@ -69,7 +69,7 @@ else{
    <input type="text" name="team_name" placeholder ="チームネーム"><br>
    <p>email</p>
    <input type="email" name="email"placeholder = "メールアドレス"><br>
-   <p>チーム共有パスワード（チームメンバーの参加時に必要です）</p>
+   <p>password</p>
    <input type="password" name="password" placeholder="パスワード"><br>
    <input type="submit" value="チームを作成する">
 </form>
