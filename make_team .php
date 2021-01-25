@@ -65,7 +65,7 @@ else{
 
 ?>
 <form method="post" action="">
-    <p>チームネーム</p>
+    <p>team_nam</p>
    <input type="text" name="team_name" placeholder ="チームネーム"><br>
    <p>email</p>
    <input type="email" name="email"placeholder = "メールアドレス"><br>
